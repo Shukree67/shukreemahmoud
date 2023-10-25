@@ -17,18 +17,6 @@ https://ktpremium.com:443/M919HR/5577/913533
 https://ktpremium.com:443/M919HR/5577/26309
 #EXTINF:-1,[MY] Bein Sports Rugby
 https://ktpremium.com:443/M919HR/5577/918609
-#EXTINF:-1,[MY] 785 Asian Games Hangzhou 2023
-https://ktpremium.com:443/M919HR/5577/932288
-#EXTINF:-1,[MY] 786 Asian Games Hangzhou 2023
-https://ktpremium.com:443/M919HR/5577/932289
-#EXTINF:-1,[MY] 787 Asian Games Hangzhou 2023
-https://ktpremium.com:443/M919HR/5577/932290
-#EXTINF:-1,[MY] 788 Asian Games Hangzhou 2023
-https://ktpremium.com:443/M919HR/5577/932471
-#EXTINF:-1,[MY] 789 Asian Games Hangzhou 2023
-https://ktpremium.com:443/M919HR/5577/932472
-#EXTINF:-1,[MY] 790 Asian Games Hangzhou 2023
-https://ktpremium.com:443/M919HR/5577/932473
 #EXTINF:-1,[MY] ASTRO ASSP (VIP)
 https://ktpremium.com:443/M919HR/5577/26312
 #EXTINF:-1,[MY]ASTRO ASSP FHD
@@ -1319,24 +1307,731 @@ http://tv365.me:80/8059765630/3322606439/54440
 http://tv365.me:80/8059765630/3322606439/54439
 #EXTINF:-1,VIP| ShoofMax- Adel Imam HD
 http://tv365.me:80/8059765630/3322606439/54438
-#EXTINF:-1,✦●✦|AR-VIP| Shoof-SERISE ✦●✦
-http://tv365.me:80/8059765630/3322606439/54437
-#EXTINF:-1,VIP| ShoofMax- HD1 بروكار
-http://tv365.me:80/8059765630/3322606439/54436
-#EXTINF:-1,VIP| ShoofMax- HD2 الجوكر
-http://tv365.me:80/8059765630/3322606439/54435
-#EXTINF:-1,VIP| ShoofMax- HD3 ولاد امبابة
-http://tv365.me:80/8059765630/3322606439/54434
-#EXTINF:-1,VIP| ShoofMax- HD4 وكلينها والعة
-http://tv365.me:80/8059765630/3322606439/54433
-#EXTINF:-1,|.AR.| BEIN SPORTS 1 SD p
-http://xpro.one-iptv.com:25443/live/languedoc/cZE2973922d/32008.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 1 HD
-http://xpro.one-iptv.com:25443/live/languedoc/cZE2973922d/9146.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 1 FHD p
-http://xpro.one-iptv.com:25443/live/languedoc/cZE2973922d/9147.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 1 FHD 4K p
-http://xpro.one-iptv.com:25443/live/languedoc/cZE2973922d/30756.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 1 FHD HEVC p
-http://xpro.one-iptv.com:25443/live/languedoc/cZE2973922d/39224.ts
-
+#EXTINF:-1,beIN SPORTS Full HD 1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3221
+#EXTINF:-1,beIN SPORTS Full HD 2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3222
+#EXTINF:-1,beIN SPORTS Full HD 3
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3224
+#EXTINF:-1,beIN SPORTS Full HD 4
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3225
+#EXTINF:-1,beIN SPORTS Full HD 5
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3226
+#EXTINF:-1,beIN SPORTS Full HD 6
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3227
+#EXTINF:-1,beIN SPORTS Full HD 7
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3228
+#EXTINF:-1,beIN SPORTS Full HD 8
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3230
+#EXTINF:-1,beIN SPORTS Full HD 9
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4033
+#EXTINF:-1,•●★★--- beIN SPORTS [HVEC_H265] ---★★●•
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3703
+#EXTINF:-1,beIN SPORTS 1 [H265]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/459
+#EXTINF:-1,beIN SPORTS 2 [H265]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/450
+#EXTINF:-1,beIN SPORTS 3 [H265]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/451
+#EXTINF:-1,beIN SPORTS 4 [H265]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/453
+#EXTINF:-1,beIN SPORTS 5 [H265]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3875
+#EXTINF:-1,beIN SPORTS 6 [H265]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/455
+#EXTINF:-1,beIN SPORTS 7 [H265]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4002
+#EXTINF:-1,beIN SPORTS 8 [H265]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/457
+#EXTINF:-1,beIN SPORTS 9 [H265]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4003
+#EXTINF:-1,•●★★--- beIN SPORTS ᴴᴰ ---★★●•
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/117
+#EXTINF:-1,beIN SPORTS News
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2051
+#EXTINF:-1,beIN SPORTS HD (Global)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/960
+#EXTINF:-1,beIN SPORTS 1 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/46
+#EXTINF:-1,beIN SPORTS 2 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/47
+#EXTINF:-1,beIN SPORTS 3 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/49
+#EXTINF:-1,beIN SPORTS 4 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/50
+#EXTINF:-1,beIN SPORTS 5 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/51
+#EXTINF:-1,beIN SPORTS 6 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/52
+#EXTINF:-1,beIN SPORTS 7 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/53
+#EXTINF:-1,beIN SPORTS 8 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/54
+#EXTINF:-1,beIN SPORTS 9 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4034
+#EXTINF:-1,beIN SPORTS XTRA 1 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4095
+#EXTINF:-1,beIN SPORTS XTRA 2 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4096
+#EXTINF:-1,beIN SPORTS XTRA 3 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4299
+#EXTINF:-1, beIN SPORTS  ENGLISH 1 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3001
+#EXTINF:-1,beIN SPORTS ENGLISH 2 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4295
+#EXTINF:-1,beIN SPORTS  FRENCH 1 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3972
+#EXTINF:-1,beIN SPORTS FRENCH 2 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4296
+#EXTINF:-1,beIN SPORTS FRENCH 3 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4297
+#EXTINF:-1,beIN SPORTS NBA 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3973
+#EXTINF:-1,beIN SPORTS AFC  ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4300
+#EXTINF:-1,beIN SPORTS AFC 1 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4301
+#EXTINF:-1,beIN SPORTS AFC 2 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4302
+#EXTINF:-1,beIN SPORTS AFC 3 ᴴᴰ  
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4303
+#EXTINF:-1,•●★★--- beIN SPORTS SD ---★★●•
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2873
+#EXTINF:-1,beIN SPORTS 1 SD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/56
+#EXTINF:-1,beIN SPORTS 2 SD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/57
+#EXTINF:-1,beIN SPORTS 3 SD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/59
+#EXTINF:-1,beIN SPORTS 4 SD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/60
+#EXTINF:-1,beIN SPORTS 5 SD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/93
+#EXTINF:-1,beIN SPORTS 6 SD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/92
+#EXTINF:-1,beIN SPORTS 7 SD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/91
+#EXTINF:-1,beIN SPORTS 8 SD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/61
+#EXTINF:-1,beIN SPORTS 9 SD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4035
+#EXTINF:-1,•●★★--- SSC Sports - Serie A---★★●•
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4039
+#EXTINF:-1,RedLocal: SSC NEWS
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4227
+#EXTINF:-1,AR: SSC SPORT 1 (1080p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4119
+#EXTINF:-1,AR: SSC SPORT 2 (1080p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4120
+#EXTINF:-1,AR: SSC Sport 3 (1080p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4239
+#EXTINF:-1,AR: SSC SPORT 4 (1080p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4124
+#EXTINF:-1,AR: SSC SPORT 5 (1080p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4126
+#EXTINF:-1,AR: SSC Extra 1 (1080p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4128
+#EXTINF:-1,AR: SSC Extra 2 (1080p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4130
+#EXTINF:-1,AR: SSC Extra 3 (1080p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4234
+#EXTINF:-1,AR: SSC Sport 1 (720P)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3833
+#EXTINF:-1,AR: SSC Sport 2 (720p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3834
+#EXTINF:-1,AR: SSC Sport 3 (720p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3835
+#EXTINF:-1,AR: SSC Sport 4 (720p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3836
+#EXTINF:-1,AR: SSC Sport 5 (720p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3837
+#EXTINF:-1,Ar: SSC Extra 1 (720p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3838
+#EXTINF:-1,AR: SSC Extra 2 (720p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3839
+#EXTINF:-1,AR: SSC Extra 3 (720p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4235
+#EXTINF:-1,AR: SSC SPORT 1 (480p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4099
+#EXTINF:-1,AR: SSC SPORT 2 (480p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4281
+#EXTINF:-1,AR: SSC 3 (480p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4237
+#EXTINF:-1,AR: SSC SPORT 4 (480p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4282
+#EXTINF:-1,AR: SSC SPORT 5 (480p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4228
+#EXTINF:-1,AR: SSC Extra 1 (480p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4230
+#EXTINF:-1,AR: SSC Extra 2 (480p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4232
+#EXTINF:-1,AR: SSC HD1 [360P]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4132
+#EXTINF:-1,AR: SSC 3 (360p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4238
+#EXTINF:-1,AR: SSC SPORT 5 (360) 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4229
+#EXTINF:-1,AR: SSC Extra 1 (360p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4231
+#EXTINF:-1,AR: SSC Extra 2 (360p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4233
+#EXTINF:-1,AR: SSC Extra 3 (480p)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4236
+#EXTINF:-1,AR: AD Sport Premium 1 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4040
+#EXTINF:-1,AR: AD Sport Premium 2 HD 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4041
+#EXTINF:-1,[AR] STARZ PLAY SPORT 1 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4284
+#EXTINF:-1,AR: AD SPORT PREMIUM 1 SD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4107
+#EXTINF:-1,AR: AD SPORT PREMIUM 2 SD 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4108
+#EXTINF:-1,AR:UAE-AD SPORT ASIA 1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4279
+#EXTINF:-1,AR:UAE-AD SPORT ASIA 2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4280
+#EXTINF:-1,•●★★--- beIN Entertainment ---★★●•
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/121
+#EXTINF:-1,AR: beIN Movies 1 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/24
+#EXTINF:-1,AR: beIN Movies 2 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/17
+#EXTINF:-1,AR: beIN Movies 3 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/18
+#EXTINF:-1,AR: beIN Movies 4 HD 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/19
+#EXTINF:-1,AR: beIN Series 1 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/20
+#EXTINF:-1,AR: beIN Series 2 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/21
+#EXTINF:-1,AR:  beIN Outdoor
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/13
+#EXTINF:-1,AR:  beIN AMC
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/14
+#EXTINF:-1,AR: beIN Drama
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/15
+#EXTINF:-1,AR: beIN  Gourmet
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/16
+#EXTINF:-1,AR: beIN Jeem HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/22
+#EXTINF:-1,AR: beIN Fox Movies
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/23
+#EXTINF:-1,AR: beIN FATAFEAT HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/25
+#EXTINF:-1,AR: beIN Baraeem
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2028
+#EXTINF:-1,AR :beIN_BOOMERANG
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2945
+#EXTINF:-1,AR: beIN DTX
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2946
+#EXTINF:-1,AR: beIN JUNIOR HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2947
+#EXTINF:-1,AR: beIN DREAMWORKS HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2948
+#EXTINF:-1,AR:Cartoon Network Arabic
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2949
+#EXTINF:-1,AR: beIN BOXOFFICE HD1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3276
+#EXTINF:-1,Bein BBC Earth HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3945
+#EXTINF:-1,•●★★--- MBC HD ---★★●•
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/125
+#EXTINF:-1,MYHD: MBC 1 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/845
+#EXTINF:-1,MYHD: MBC 2 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/846
+#EXTINF:-1,MYHD: MBC 3 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/847
+#EXTINF:-1,MYHD: MBC 4 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/848
+#EXTINF:-1,MYHD: MBC 5 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2114
+#EXTINF:-1,MYHD: MBC Bollywood HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/849
+#EXTINF:-1,MYHD: MBC Massr HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/850
+#EXTINF:-1,MYHD: MBC Masr 2 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/851
+#EXTINF:-1,MYHD: MBC Drama HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/852
+#EXTINF:-1,MYHD: MBC Action HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/853
+#EXTINF:-1,MYHD: MBC Max HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/854
+#EXTINF:-1,MYHD: MBC Iraq HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/855
+#EXTINF:-1,MYHD: MBC Drama+ HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/856
+#EXTINF:-1,MYHD: MBC+Variety HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/857
+#EXTINF:-1,MYHD: MBC Persia
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3802
+#EXTINF:-1,MYHD: MBC Wanasah
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3803
+#EXTINF:-1,AR: MBC FM
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3737
+#EXTINF:-1,MYHD: FOX Rewayat HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/859
+#EXTINF:-1,MYHD: FOX Life HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/860
+#EXTINF:-1,MYHD: Family Movies HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/861
+#EXTINF:-1,MYHD: FOX Crime HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/862
+#EXTINF:-1,MYHD: Fox Action
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/863
+#EXTINF:-1,MYHD: FX HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/865
+#EXTINF:-1,MYHD: Fox Movies
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/867
+#EXTINF:-1,MYHD: Planet Earth HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/869
+#EXTINF:-1,MYHD: Discovery SC HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/871
+#EXTINF:-1,MYHD: Gulli Arabic HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/872
+#EXTINF:-1,MYHD: Duck TV HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/874
+#EXTINF:-1,MBC_1 sd
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2771
+#EXTINF:-1,MBC_2 sd
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2772
+#EXTINF:-1,MBC_3 sd
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2773
+#EXTINF:-1,MBC_4 sd
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2774
+#EXTINF:-1,,MBC_5 sd
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2775
+#EXTINF:-1,MBC_MAX sd
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2776
+#EXTINF:-1,MBC_ACTION sd
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2777
+#EXTINF:-1,MBC_DRAMA sd
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2778
+#EXTINF:-1,MBC_MASR sd
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2779
+#EXTINF:-1,MBC_MASR 2 sd
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2780
+#EXTINF:-1,MBC_FM_PANORAMA sd
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2781
+#EXTINF:-1,•●★★--- OSN HD ---★★●•
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/124
+#EXTINF:-1,OSN ALSAFWA
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4025
+#EXTINF:-1,OSN YaHala  HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4026
+#EXTINF:-1,OSN  Hala Bil Araby
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/156
+#EXTINF:-1,OSN YAHALA AFLAM
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/161
+#EXTINF:-1,OSN MUSALSALAT HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4027
+#EXTINF:-1,OSN:  AL YAWM HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2828
+#EXTINF:-1,OSN:  Alfa Fann
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2830
+#EXTINF:-1,OSN : Discovery 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3543
+#EXTINF:-1,OSN: TLC
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3871
+#EXTINF:-1,OSN Star Movies
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/159
+#EXTINF:-1,OSN Star World 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/160
+#EXTINF:-1,OSN: Nick JR
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3707
+#EXTINF:-1,OSN: E
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3284
+#EXTINF:-1,OSN:  Series prime 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2172
+#EXTINF:-1,AR:  OSN Movies Premiere 2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/89
+#EXTINF:-1,[OSN] Mezze
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/975
+#EXTINF:-1,[OSN] OSN Boxoffice1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/973
+#EXTINF:-1, OSN MOVIES BOX OFFICE 3 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/981
+#EXTINF:-1,OSN  Movies Action
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/155
+#EXTINF:-1,[OSN] Star-Movies india
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/980
+#EXTINF:-1,[OSN] ONDEMAND EXTRA *1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2826
+#EXTINF:-1,[OSN] OSN Kids
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/976
+#EXTINF:-1,[OSN] ENIGMA HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/964
+#EXTINF:-1,[OSN] Movies premiere*
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2825
+#EXTINF:-1,[OSN] OSN Discovery H
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/969
+#EXTINF:-1,OSN: family
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2831
+#EXTINF:-1,[OSN] Animal Plannet 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/966
+#EXTINF:-1,[OSN] OSN Comedy
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/965
+#EXTINF:-1,OSN History Channel
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/167
+#EXTINF:-1,OSN  Nick Toons
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3705
+#EXTINF:-1,OSN Discovery ID
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/168
+#EXTINF:-1,OSN Movies Disney
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/171
+#EXTINF:-1, OSN: Disney Channel
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/667
+#EXTINF:-1,OSN Disny Junior
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/162
+#EXTINF:-1,OSN: ON-DEMAND-EXTRA-HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2832
+#EXTINF:-1,OSN : ID
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/154
+#EXTINF:-1,OSN Nat Geo
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/157
+#EXTINF:-1,OSN Nat Geo Pepole
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/158
+#EXTINF:-1,[OSN] Movies Action
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/963
+#EXTINF:-1,[OSN] wwe
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/994
+#EXTINF:-1,[OSN] SYFY
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/993
+#EXTINF:-1,[OSN] Alfa Cinema 1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/991
+#EXTINF:-1,[OSN] Alfa Cinema 2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/992
+#EXTINF:-1,[OSN] : Movies
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/987
+#EXTINF:-1,[OSN] OSN Animal Planet
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/962
+#EXTINF:-1,[OSN] OSN Nat Geo Wild
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/982
+#EXTINF:-1,OSN: Nickelodeon HD AR
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2829
+#EXTINF:-1,OSN | Action
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3946
+#EXTINF:-1,OSN | FX HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3947
+#EXTINF:-1, OSN Series Prime HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4020
+#EXTINF:-1,•●★★--- UGEEN BOX OFFICE---★★●•
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/513
+#EXTINF:-1,[NETFLIX] Action2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2419
+#EXTINF:-1,[NETFLIX] SCi-Fi
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2420
+#EXTINF:-1,[NETFLIX] JR
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2421
+#EXTINF:-1,[NETFLIX] Horror
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2422
+#EXTINF:-1,NETFLIX_Comedy+
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2505
+#EXTINF:-1,NETFLIX_SCI FI
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2506
+#EXTINF:-1,NETFLIX M
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2507
+#EXTINF:-1,Netflex Action
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2116
+#EXTINF:-1,Netflix عربي
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2041
+#EXTINF:-1,Netflix boxoffice
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2042
+#EXTINF:-1,Netflix Horror
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2043
+#EXTINF:-1,Netflix Comedy
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2044
+#EXTINF:-1,NETFLIX  ACTION
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2047
+#EXTINF:-1,NETFLIX_DRAMA
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2347
+#EXTINF:-1,Netflix Horror 2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2350
+#EXTINF:-1,NETFLIX_THRILLER
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2358
+#EXTINF:-1,AR: Netflix Comedy+
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3410
+#EXTINF:-1,AR: NETFLIX  documentary
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3416
+#EXTINF:-1,AR: NETFLIX Super
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3422
+#EXTINF:-1,AR: NETFLIX Kids +1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3436
+#EXTINF:-1,AR: Netflix WWE
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3437
+#EXTINF:-1,AR:  Netflix  Super
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3718
+#EXTINF:-1,Netflix Kids+
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3537
+#EXTINF:-1,Netflix+ Action
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3538
+#EXTINF:-1,NETFLIX+ HORROR
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3539
+#EXTINF:-1,[Shahid Action]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2423
+#EXTINF:-1,[Shahid ANIMATION]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2424
+#EXTINF:-1,[Shahid HINDI]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2426
+#EXTINF:-1,[Shahid HORROR]
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2427
+#EXTINF:-1,AR:SHAHID_Aflam3+
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3252
+#EXTINF:-1,AR HBO Action
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3250
+#EXTINF:-1,AR :HBO Arabic
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3251
+#EXTINF:-1,AR :HBO Horror
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3253
+#EXTINF:-1,TOM &JERRY LIVE
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2819
+#EXTINF:-1,Shamel Aflam 1HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/2929
+#EXTINF:-1,ugeen Family Movies
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3695
+#EXTINF:-1,ugeen KidsCo Movies
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3697
+#EXTINF:-1,AR: Apple TV 4 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3727
+#EXTINF:-1,AR: Apple TV 3 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3728
+#EXTINF:-1,AR: Apple TV 2 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3729
+#EXTINF:-1,AR: Apple TV 1 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3730
+#EXTINF:-1,Casper Action 1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3938
+#EXTINF:-1,Casper Action 2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3939
+#EXTINF:-1,Casper Arabic
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3942
+#EXTINF:-1,Casper Comedy
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3943
+#EXTINF:-1,Casper horror
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3944
+#EXTINF:-1,EONE CINEMA 1 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3564
+#EXTINF:-1,EONE CINEMA 2 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3565
+#EXTINF:-1,EONE CINEMA 3
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3567
+#EXTINF:-1,ON Arabic ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3574
+#EXTINF:-1,ON Cinema ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3575
+#EXTINF:-1,ON Horror
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3576
+#EXTINF:-1,On  Funny HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3577
+#EXTINF:-1,ON Turkeyᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3578
+#EXTINF:-1,ON Movies ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3579
+#EXTINF:-1,shahid masr
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3600
+#EXTINF:-1,shahid alzaeem
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3601
+#EXTINF:-1,shahid wwe
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3602
+#EXTINF:-1,shahid shaam
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3603
+#EXTINF:-1, SHOOF MAX EXTRA 2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3735
+#EXTINF:-1,AR: RADIO UMM KULTHUM
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3691
+#EXTINF:-1,AR: RADIO Tarab
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3692
+#EXTINF:-1,AR: RADIO Zaman
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3693
+#EXTINF:-1,AR: RADIO Fayroz
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3694
+#EXTINF:-1,AR: Shahid VIP Comedy
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3722
+#EXTINF:-1,AR: Shahid  Western
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3723
+#EXTINF:-1,AR: Shahid VIP INDIA
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3714
+#EXTINF:-1,AR: Shahid VIP Arabic
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3715
+#EXTINF:-1,AR: Shahid VIP TURKISH
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3716
+#EXTINF:-1,AR: Shahid VIP Action
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3713
+#EXTINF:-1,AR: Shahid VIP Documentary
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3717
+#EXTINF:-1,AR: Shahid VIP Wild
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3720
+#EXTINF:-1,AR: Shahid VIP Anime
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3721
+#EXTINF:-1,Shahid VIP Arabic Classic
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4051
+#EXTINF:-1,Shahid VIP Masrahiyat
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4052
+#EXTINF:-1,Shahid VIP Western
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4053
+#EXTINF:-1,Shahid VIP Drama
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4054
+#EXTINF:-1,Shahid VIP Comedy
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4055
+#EXTINF:-1,Shahid VIP Horror
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4056
+#EXTINF:-1,Shahid VIP SCI FI
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4057
+#EXTINF:-1,Shahid VIP Fantasia
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4058
+#EXTINF:-1,Shahid VIP WAR
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4059
+#EXTINF:-1,Shahid VIP Romance
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4060
+#EXTINF:-1,AR: Shamel Aflam 2HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3725
+#EXTINF:-1,OXN Box-office
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4190
+#EXTINF:-1,OXN Cinema 1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4191
+#EXTINF:-1,OXN Cinema 2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4192
+#EXTINF:-1,OXN Islamic
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4193
+#EXTINF:-1,OXN MIX
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4194
+#EXTINF:-1,HBO MAX 1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4196
+#EXTINF:-1,HBO MAX 2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4197
+#EXTINF:-1,HBO MAX 3
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4198
+#EXTINF:-1,HBO MAX 4
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4199
+#EXTINF:-1,Dragon Arabic
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4200
+#EXTINF:-1,DRAGON COMEDY
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4201
+#EXTINF:-1,DRAGON ULTRA
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4202
+#EXTINF:-1,Dragon Action
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4203
+#EXTINF:-1,HULU ACTION
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4204
+#EXTINF:-1,HULU ARABIC
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4205
+#EXTINF:-1,HULU Bollywood
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4206
+#EXTINF:-1,HULU Box-Office
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4207
+#EXTINF:-1,HULU Kids
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4208
+#EXTINF:-1,INFINITY Kids
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4209
+#EXTINF:-1,INFINITY Action
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4210
+#EXTINF:-1,INFINITY Comedy
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4211
+#EXTINF:-1,INFINITY Romance
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4212
+#EXTINF:-1,SKYFLIX 1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4213
+#EXTINF:-1,SKYFLIX 2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4214
+#EXTINF:-1,SKYFLIX 3
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4215
+#EXTINF:-1,SKYFLIX 4
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4216
+#EXTINF:-1,Showtime Box-Office
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4217
+#EXTINF:-1,•●★★--- ART Channels ---★★●•
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/122
+#EXTINF:-1,AR: ART Aflam 1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/997
+#EXTINF:-1,AR: ART Aflam  2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/102
+#EXTINF:-1,AR: ART Cinema
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/103
+#EXTINF:-1,AR: ART Hekayat 1
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/104
+#EXTINF:-1,AR: ART Hekayat 2
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/105
+#EXTINF:-1,•●★★--- KIDS ---★★●•
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1009
+#EXTINF:-1,AR: Cartoon Network
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1011
+#EXTINF:-1,AR: Kooky
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1015
+#EXTINF:-1,AR: Toyor Al Ganna
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1020
+#EXTINF:-1,AR: Maged
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1019
+#EXTINF:-1,AR: Spacetoon
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1017
+#EXTINF:-1,AR: Mwaheb
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1016
+#EXTINF:-1,•●★★--- NEWS ---★★●•
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/998
+#EXTINF:-1,AR: Al Jazeera
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/999
+#EXTINF:-1,AR: Al Jazeera Documentry
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1000
+#EXTINF:-1,AR: AL JAZEERA MUBASHER
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3208
+#EXTINF:-1,AR: AlJazeera-English
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3209
+#EXTINF:-1,AR: AlJazeera Eng
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3210
+#EXTINF:-1,AR: Al Jazeera FHD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1003
+#EXTINF:-1,AR: Al ALArabiya
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1001
+#EXTINF:-1,AR: Al ALArabiya Alhadaath
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1002
+#EXTINF:-1,AR: BBC Arabic
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1005
+#EXTINF:-1,AR: Sky News
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1007
+#EXTINF:-1,AR: TRT-ELARABIYE
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1006
+#EXTINF:-1,AR: RT Arabic
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/1004
+#EXTINF:-1, AR: FR 24 arabic HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3206
+#EXTINF:-1,AR: DW Arabic
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3207
+#EXTINF:-1,AR:  Alhurra
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3211
+#EXTINF:-1,CNN
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3212
+#EXTINF:-1,France 24 (En Francais)
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3213
+#EXTINF:-1,AR:Houra News
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3214
+#EXTINF:-1,•●★★--- Rotana ---★★●•
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/176
+#EXTINF:-1,AR:Rotana Cinema 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/106
+#EXTINF:-1,AR: Rotana Cinema KSA
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/107
+#EXTINF:-1,AR:Rotana Aflam
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/108
+#EXTINF:-1,AR: Rotana  Comedy 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/109
+#EXTINF:-1,AR: Rotana Classic 
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/110
+#EXTINF:-1,AR: Rotana Drama
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3215
+#EXTINF:-1,AR: Rotana Comedy
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3216
+#EXTINF:-1,AR: Rotana Clip
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3217
+#EXTINF:-1,AR: Rotana Khaliji
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/3218
+#EXTINF:-1,AR: FajerTV1 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/584
+#EXTINF:-1,AR: FajerTV2 HD
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/587
+#EXTINF:-1,Al Fajer 3
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4028
+#EXTINF:-1,Al Fajer 4
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4029
+#EXTINF:-1,Al Fajer 5
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4030
